@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## 반갑습니다.
 
-You can use the [editor on GitHub](https://github.com/artwiki/artwiki.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+안녕하세요. 아트위키의 프로필 페이지입니다. 아트위키는 2011년 8월, "한국어판 창작아카이브"를 모토로 하여 오픈한 시각예술기반 아카이브 웹사이트입니다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 주요 연혁
 
-### Markdown
+- 2015.3.3. 새 호스팅 서버로 이전. "아트위키, 한국어판 창작아카이브"에서 "아트위키"로 명칭 변경.
+- 2012.8.26. 아트위키의 명칭을 "Artwiki"에서 "아트위키, 한국어판 창작아카이브"로 변경.
+- 2011.8.1. 오픈
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 연락처
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/artwiki/artwiki.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [artwikinet@gmail.com](mailto://artwikinet@gmail.com)
+- Facebook - [Artwikinet](https://www.facebook.com/artwikinet/)
+- Twitter - [Artwikinet](https://twitter.com/Artwikinet)
